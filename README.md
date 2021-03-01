@@ -38,7 +38,7 @@
 
 ![分布式计算概念图](https://i.postimg.cc/dtd6t4MP/image.png)
 
-## Nav | 导读
+## Nav | 关联导航
 
 > 如果你想了解微服务/云原生等分布式系统的应用实践，可以参阅；如果你想了解数据库相关，可以参阅 [Database-Series](https://github.com/wx-chevalier/Database-Series)；如果你想了解虚拟化与云计算相关，可以参阅 [Cloud-Series](https://github.com/wx-chevalier/Cloud-Series)；如果你想了解 Linux 与操作系统相关，可以参阅 [Linux-Series](https://github.com/wx-chevalier/Linux-Series)。
 
