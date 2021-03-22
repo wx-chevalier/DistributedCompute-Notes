@@ -28,7 +28,7 @@
 
 ![](https://s2.ax1x.com/2019/09/02/n92zUe.jpg)
 
-# TBD
+# Links
 
 - https://mp.weixin.qq.com/s/hYfTl8eR2Vkue8-EpgZY7g
 - https://mp.weixin.qq.com/s/y3CheyPMJpLpD3pB3lTT9g
@@ -142,7 +142,7 @@ RocketMQ 的消息整体是有序的，所以这 5 条消息按顺序将内容�
 
 # 延伸阅读
 
-# TBD
+# Links
 
 - https://mp.weixin.qq.com/s/nAjYhuN3ptAqaE67bqc4aQ
 

@@ -4,6 +4,6 @@ RabbitMQ 是一个由 Erlang 开发的 AMQP(Advanved Message Queue)的开源实�
 
 ## 特性
 
-# TBD
+# Links
 
 - https://cloud.tencent.com/developer/article/1452656
