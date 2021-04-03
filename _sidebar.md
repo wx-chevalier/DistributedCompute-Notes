@@ -84,7 +84,7 @@
         
       - [4.3.2 Table API](/流处理/Flink/Table%20API.md)
       - [4.3.3 代码开发](/流处理/Flink/代码开发.md)
-      - [4.3.4 环境配置](/流处理/Flink/环境配置.md)
+      - [4.3.4 快速开始](/流处理/Flink/快速开始.md)
     - [4.4 Spark](/流处理/Spark/README.md)
       - [4.4.1 代码开发](/流处理/Spark/代码开发.md)
       - [4.4.2 环境配置](/流处理/Spark/环境配置.md)
