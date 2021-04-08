@@ -21,7 +21,7 @@
       - [2.6.1 Data Parallelism](/批处理/编程模型/Data%20Parallelism.md)
       - [2.6.2 图的大规模并行](/批处理/编程模型/图的大规模并行.md)
       - [2.6.3 查询与声明式接口](/批处理/编程模型/查询与声明式接口.md)
-  - 3 数据仓库
+  - [3 数据仓库](/数据仓库/README.md)
     - 3.1 HBase
       - [3.1.1 CRUD](/数据仓库/HBase/CRUD.md)
       - [3.1.2 架构分析](/数据仓库/HBase/架构分析.md)
@@ -35,15 +35,15 @@
       - [3.3.4 文件类型与存储格式](/数据仓库/Hive/文件类型与存储格式.md)
       - [3.3.5 自定义函数](/数据仓库/Hive/自定义函数.md)
       - [3.3.6 表操作](/数据仓库/Hive/表操作.md)
-    - [3.4 OLAP](/数据仓库/OLAP/README.md)
-      - [3.4.1 Druid](/数据仓库/OLAP/Druid/README.md)
+    - [3.4 OLAP 框架](/数据仓库/OLAP%20框架/README.md)
+      - [3.4.1 Druid](/数据仓库/OLAP%20框架/Druid/README.md)
         
-      - [3.4.2 Presto](/数据仓库/OLAP/Presto/README.md)
-        - [3.4.2.1 部署与控制](/数据仓库/OLAP/Presto/部署与控制.md)
-      - [3.4.3 QuickSQL](/数据仓库/OLAP/QuickSQL/README.md)
+      - [3.4.2 Presto](/数据仓库/OLAP%20框架/Presto/README.md)
+        - [3.4.2.1 部署与控制](/数据仓库/OLAP%20框架/Presto/部署与控制.md)
+      - [3.4.3 QuickSQL](/数据仓库/OLAP%20框架/QuickSQL/README.md)
         
       - 3.4.4 Sqoop
-        - [3.4.4.1 介绍与部署](/数据仓库/OLAP/Sqoop/介绍与部署.md)
+        - [3.4.4.1 介绍与部署](/数据仓库/OLAP%20框架/Sqoop/介绍与部署.md)
     - [3.5 数据中台](/数据仓库/数据中台/README.md)
       - 3.5.1 中台建构
         - [3.5.1.1 数据栈](/数据仓库/数据中台/中台建构/数据栈.md)
