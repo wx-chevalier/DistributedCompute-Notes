@@ -1,4 +1,4 @@
-![](https://www.confluent.io/wp-content/uploads/streaming_platform_rev.png)
+![Kafka 示意图](https://www.confluent.io/wp-content/uploads/streaming_platform_rev.png)
 
 # Kafka
 
