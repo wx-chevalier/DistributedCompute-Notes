@@ -2,9 +2,17 @@
 
 # Kafka
 
-Kafka 是由 Linkedin 公司开发的，它是一个分布式的，支持多分区、多副本，基于 Zookeeper 的分布式消息流平台，它同时也是一款开源的基于发布订阅模式的消息引擎系统。据 Kafka 官方网站介绍，当前的 Kafka 已经定位为一个分布式流式处理平台(a distributed streaming platform)，它最初由 LinkedIn 公司开发，后来成为 Apache 项目的一部分。Kafka 核心模块使用 Scala 语言开发，支持多语言(如 Java、C/C++、Python、Go、Erlang、Node.js 等)客户端，它以可水平扩展和具有高吞吐量等特性而被广泛使用。
+Kafka 是由 Linkedin 公司开发的，它是一个分布式的，支持多分区、多副本，基于 Zookeeper 的分布式消息流平台，它同时也是一款开源的基于发布订阅模式的消息引擎系统。与传统的消息系统相比，Kafka 能够很好地处理活跃的流数据，使得数据在各个子系统中高性能、低延迟地不停流转。它最初由 LinkedIn 公司开发，后来成为 Apache 项目的一部分。Kafka 核心模块使用 Scala 语言开发，支持多语言(如 Java、C/C++、Python、Go、Erlang、Node.js 等)客户端，它以可水平扩展和具有高吞吐量等特性而被广泛使用。
 
-![Kafka 管道应用示意图](http://images0.cnblogs.com/blog2015/666745/201505/261159103182564.png)
+![Kafka 管道应用示意图](https://pic.imgdb.cn/item/6077f7a18322e6675cb26c90.png)
+
+据 Kafka 官方网站介绍，当前的 Kafka 已经定位为一个分布式流式处理平台(a distributed streaming platform)，在官方看来，作为一个流式处理平台，必须具备以下 3 个关键特性。
+
+- 能够允许发布和订阅流数据。从这个角度来讲，平台更像一个消息队列或者企业级的消息系统。
+- 存储流数据时提供相应的容错机制。
+- 当流数据到达时能够被及时处理。
+
+Kafka 能够很好满足以上 3 个特性，通过 Kafka 能够很好地建立实时流式数据通道，由该通道可靠地获取系统或应用程序的数据，也可以通过 Kafka 方便地构建实时流数据应用来转换或是对流式数据进行响应处理。特别是在 0.10 版本之后，Kafka 推出了 Kafka Streams，这让 Kafka 对流数据处理变得更加方便。
 
 # 特性
 
