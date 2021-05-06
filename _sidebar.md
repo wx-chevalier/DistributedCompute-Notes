@@ -72,6 +72,8 @@
       - [3.8.3 Debezium](/数据仓库/数据集成/Debezium.md)
       - [3.8.4 ETL](/数据仓库/数据集成/ETL/README.md)
         
+    - 3.9 系统实践
+      - [3.9.1 贝壳 OLAP 平台架构演进](/数据仓库/系统实践/2021-贝壳%20OLAP%20平台架构演进.md)
   - [4 流处理](/流处理/README.md)
     - [4.1 Beam](/流处理/Beam/README.md)
       - [4.1.1 Dataflow 模型](/流处理/Beam/Dataflow%20模型.md)
