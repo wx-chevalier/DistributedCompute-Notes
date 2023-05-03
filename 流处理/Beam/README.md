@@ -11,7 +11,7 @@ Apache Beam 最初叫 Apache Dataflow，由谷歌和其合作伙伴向 Apache �
 
 整个技术的发展流向；一部分是谷歌派系，另一部分则是 Apache 派系。在开发大数据应用时，我们有时候使用谷歌的框架，API，类库，平台等，而有时候我们则使用 Apache 的，比如：HBase，Flink，Spark 等。而我们要整合这些资源则是一个比较头疼的问题，Apache Beam 的问世，整合这些资源提供了很方便的解决方案。
 
-![](https://i.postimg.cc/g2FFZQpK/image.png)
+![](https://assets.ng-tech.icu/item/20230503195639.png)
 
 Beam SDK 提供了一个统一的编程模型，来处理任意规模的数据集，其中包括有限的数据集，无限的流数据。Apache Beam SDK 使用相同的类来表达有限和无限的数据，同样使用相同的转换方法对数据进行操作。Beam 提供了多种 SDK，你可以选择一种你熟悉的来建立数据处理管道，如上述的图，我们可以知道，目前 Beam 支持 Java，Python 以及其他待开发的语言。
 
