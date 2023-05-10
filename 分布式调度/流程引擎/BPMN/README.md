@@ -8,11 +8,11 @@
 
 这三类执行语义的定义涵盖了业务流程常用的 Sequence Flow（流程转向）、Task（任务）、Sub-Process（子流程）、Parallel Gateway（并行执行网关）、ExclusiveGateway（排它型网关）、InclusiveGateway（包容型网关）等常用图元。
 
-![](https://i.postimg.cc/Wzv2NQ02/image.png)
+![](https://assets.ng-tech.icu/item/20230510135451.png)
 
 BPMN2.0 为所有业务元素定义了标准的符号，不同的符号代表不同的含义，以 OA 应用中请假流程为例，使用标准的 BPMN2.0 图元定义：
 
-![](https://i.postimg.cc/nhgfVyt6/image.png)
+![](https://assets.ng-tech.icu/item/20230510135436.png)
 
 现实业务所有的业务环节都离不开 Activities、Gateways 和 Events，无论是简单的条件审批还是复杂的父子流程循环处理，在一个 流程定义描述中，所有的业务环节都离不开 Task、Sequence Flow、Exclusive Gateway、Inclusive Gateway。
 
